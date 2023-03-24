@@ -1,0 +1,4 @@
+Este texto tem palavras repetidas
+mapreduce haddop palavras
+palavras palavra haddop texto python
+mrjob haddop mapreduce haddop mapreduce
